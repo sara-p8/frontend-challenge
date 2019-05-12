@@ -42,7 +42,7 @@ body {
   display: inline-block;
   background-color: F8F8F8;
   position: absolute;
-  width: 100%;
+  /* width: 100%; */
   height: 36px;
   padding: 0 1% 0 1%;
 }
@@ -74,6 +74,23 @@ body {
 }
 
 /* Bus List */
+
+.bus{
+  position: relative;
+  width: 100%;
+  height: 60px;
+}
+
+.bus::after{
+  content: '';
+  border-bottom: 1px #dcd8d8 solid;
+  width: 102%;
+  height: 60px;
+  position: absolute;
+  left: 0;
+  padding-top: 5px;
+}
+
 .bus-list {
   height: 205px;
   overflow-y: scroll;
@@ -82,9 +99,14 @@ body {
 }
 
 .bus-bg {
+  min-height: 55px;
   background-color: white;
   box-sizing: border-box;
-  padding: 5px;
+  padding: 5px 10px;
+}
+
+.bus-bg:hover {
+  background: #DADADA;
 }
 
 ul, li {
@@ -94,15 +116,18 @@ ul, li {
 /* Bus Info */
 
 .businfo {
-  color: 000000;
-  display: inline-block;
+  color: #000000;
+  /* display: inline-block; */
+  float: left;
+  width: 70%;
+
 }
 
 .businfo h1 {
   font-size: 18px;
   font-weight: bold;
   color: #000000;
-  line-height: 24px;
+  line-height: 30px;
 }
 
 .businfo h2 {
@@ -112,20 +137,25 @@ ul, li {
 
 /* Bus Arrival - right side */
 .busarrival {
-  position: relative;
-  display: inline-block;
-  width: 35%;
-  padding: 1% 4% 1% 0;
+  /* position: relative; */
+  /* display: inline-block; */
+  width: 30%;
+  /* padding: 1% 4% 1% 0;
   top: 60%;
   left: 55%;
-  transform: translateY(-120%);
+  transform: translateY(-120%); */
+  float: right;
 }
 
 .bustime {
   float: right;
-  margin: 0 auto;
-  padding: .5% 0;
+  /* margin: 0 auto; */
+  /* padding: .5% 0; */
   color: #2b6ba1;
+  padding: 20px 20px 20px 0;
+  background-image: url('../images/arror-r.png');
+  background-repeat: no-repeat;
+  background-position: right center;
 }
 
 /* green - under 5 mins*/
