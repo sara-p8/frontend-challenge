@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 51" width="32" height="51">
+	<defs>
+		<image width="28" height="45" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAtCAMAAACK9fuuAAAAAXNSR0IB2cksfwAAASZQTFRFAAAAx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHpxv1BAAAAGJ0Uk5TACRPGwNb5fzXWQEEafL/92fxK+hQWCDfVepk9lZI72NR7PoCSV348PNaUvQAVGhTV+1lS+47LdRHMtyYB977mhKRCzmXCOE2j4zdBTCJN43W/X7agBXOeXh1bgyecQ6Lb0XBB8MsAAABPUlEQVR4nH3U6TrDQBSA4UFrNGHSUESQkqLWWqKoooid1L7v938T0qc6Jz1nkvn7Pl/mZDItY+Hq6OxiMSuV7uY9GU1pem+fEMJIq1TLNkwIU6X9A6K5VG2O/6MwB4kODbdQ1VojUk0bq5YDHR0j846DOnky1MSkVNfGWJgCdabpVKAzWTKVVZQ6O0faeUfqQr6AcHEJWqdEZl42oV0h75uBdnWNtsWk1ou2elJbwjNrHpzzepnsa0sUFraNTTjHLWSVbQirO6jblbRX24/vDg7bzY90R8eoO4nvTiNdNaE7S+jO0Tv4F5Hust2u4DfhBmi/OjxTXOPuBs4zQPtVwG7v0Bcu30szHtAzH5+k8Wd8MzxX7vdCbk29dWv4awob04Pmn4LxRrpwvX80lH+qjLGvb0OYP2oL16/lK+0PByY2D4Ze3dUAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #000000 } 
+	</style>
+	<path id="Layer" class="shp0" d="M28.55,23.81l-19.43,-19.36c-0.94,-0.93 -2.46,-0.93 -3.39,0l-2.27,2.26c-0.94,0.93 -0.94,2.44 0,3.38l15.4,15.41l-15.4,15.41c-0.93,0.93 -0.93,2.44 0,3.38l2.27,2.26c0.94,0.93 2.46,0.93 3.39,0l19.43,-19.36c0.94,-0.93 0.94,-2.45 0,-3.38z" />
+	<use id="Layer 1" href="#img1" x="2" y="3" />
+</svg>
