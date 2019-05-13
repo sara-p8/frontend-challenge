@@ -178,6 +178,7 @@ ul, li {
   /* padding: .5% 0; */
   color: #2b6ba1;
   padding: 20px 20px 20px 0;
+  margin-right: 5px;
   background-image: url('../images/arror-r.png');
   background-repeat: no-repeat;
   background-position: right center;
